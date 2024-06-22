@@ -1,4 +1,4 @@
-package br.com.ulbra.exemplorecycler.di
+package com.example.apkroomtamires.di
 
 import android.content.Context
 import androidx.room.Room
